@@ -52,7 +52,7 @@ final class CursorModel: ObservableObject {
     private var supportDirectoryURL: URL {
         let baseURL = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
             ?? FileManager.default.temporaryDirectory
-        return baseURL.appendingPathComponent("AC Cursor", isDirectory: true)
+        return baseURL.appendingPathComponent("AnimatedCursor", isDirectory: true)
     }
 
     private var savedGIFURL: URL {
