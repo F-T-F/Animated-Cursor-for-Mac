@@ -1,11 +1,5 @@
 <h1> Animated-Cursor </h1>
 
-<p>
-<strong> Language: </strong>
-<strong> English </strong> |
-<a href="./README.zh.md"> Chinese </a>
-</p>
-
 <hr>
 
 <h2> Overview </h2>
